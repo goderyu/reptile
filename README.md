@@ -4,4 +4,4 @@
 - moyanspider.py
   - 使用了requests库和re库
 - pgstoexcel.py
-  - 使用了re库、etree库以及xlwt库
+  - 使用了requests库、etree库以及xlwt库
